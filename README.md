@@ -1,5 +1,5 @@
 # Variant Calling Format file parser in Python 
-This repository contains programming task assigned by OICR; it parses through a Variant calling format file and outputs the stats in JSON
+This repository contains programming script that parses through a Variant calling format file and outputs the stats in JSON
 
 In order to run it you will have to provide the sample name in the command line eg:- 'python OICR_task.py HG00096' and 'python OICR_task.py HG00097'.
 
